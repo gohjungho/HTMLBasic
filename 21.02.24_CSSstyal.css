@@ -1,0 +1,53 @@
+/* h1{
+  color: red;
+}
+
+#bg{
+  background-color: yellow;
+}
+
+#color{
+  color: red;
+}
+
+.size{
+  font-size: 50px;
+}
+
+.color{
+  color: blue;
+}
+
+header{
+  color: red;
+}
+
+h1{
+  color: blue;
+}
+
+p{
+  color:green;
+}
+
+p{
+  color: red;
+}
+
+header h2{
+  color: blue;
+} */
+
+
+/* class > type */
+
+.color{
+  color: red;
+}
+
+h3{
+  color: green;
+}
+
+/* id > class > type */
+/* 주석 안의 주석은 인정되지 않는다. */
